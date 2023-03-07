@@ -25,9 +25,34 @@ The application has an admin dashboard that allows the administrator to monitor 
 # Technologies Used
 The following technologies were used in building the application:
 
-    HTML
-    CSS
-    JavaScript
-    Bootstrap
-    PHP
-    MySQL
+1. HTML
+2. CSS
+3. JavaScript
+4. Bootstrap
+5. PHP
+6. MySQL
+
+# How to Install and Run the Application
+1. Clone the repository to your local machine.
+
+        git clone https://github.com/username/repo.git
+
+2. Import the database schema into MySQL.
+
+        mysql -u username -p database_name < schema.sql
+        
+3. Update the database configuration in the config.php file.
+
+        $host = 'localhost';
+        $username = 'username';
+        $password = 'password';
+        $database = 'database_name';
+        
+4. Run the application on your local server.
+
+# Support and Contributions
+If you encounter any issues with this application or would like to contribute to its development, please contact me at saifsunny56@gmail.com
+
+# License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
