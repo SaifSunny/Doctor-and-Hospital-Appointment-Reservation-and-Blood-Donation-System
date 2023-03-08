@@ -2,7 +2,7 @@
 
 This is a web application developed using Bootstrap, HTML, CSS, JavaScript, PHP, and MySQL to provide hospital reservation, blood donation, and doctor booking services.
 
-The application has been deployed on https://hubhealth.000webhostapp.com/ for testing and demonstration purposes.
+The application has been deployed on https://saifsunnyportfolio2.000webhostapp.com/HealthHub/ for testing and demonstration purposes.
 
 # Features
 The application has several features that make it easy for hospitals, doctors, and patients to interact with the system. These features include:
